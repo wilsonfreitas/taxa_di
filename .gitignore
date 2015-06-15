@@ -1,2 +1,9 @@
 # Ignore output of scraper
 data.sqlite
+
+.Python
+bin/*
+lib/*
+include/*
+src/*
+pip-selfcheck.json
